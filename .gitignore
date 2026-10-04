@@ -1,0 +1,17 @@
+.venv/
+venv/
+build/
+dist/
+*.spec
+__pycache__/
+.pytest_cache/
+*.ses
+*.pyc
+.DS_Store
+*.app/
+*.dmg
+*.zip
+*.pdf
+.env
+.env.*
+!tests/fixtures/
